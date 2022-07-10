@@ -1,1 +1,3 @@
-# Blog-x-Current-Status
+#Current Status:
+
+Learning PHP & MYSQL
